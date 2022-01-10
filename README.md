@@ -16,3 +16,5 @@ Algumas das tecnologias que eu mais utilizo:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![C-Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=c-sharp)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GoLang](https://img.shields.io/badge/-GoLang-3776AB?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
