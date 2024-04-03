@@ -1,4 +1,4 @@
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemarinho&layout=compact&theme=omni"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusemarinho&layout=compact)](https://github.com/jusemarinho/josemarinho)
 
 Algumas das tecnologias que eu mais utilizo:
 
