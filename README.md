@@ -1,4 +1,4 @@
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusebandtec&layout=compact&theme=omni"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemarinho&layout=compact&theme=omni"/>
 
 Algumas das tecnologias que eu mais utilizo:
 
