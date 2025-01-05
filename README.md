@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusemarinho&layout=compact)](https://github.com/jusemarinho/josemarinho)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusemarinho&layout=compact&hide=jupyter%20notebook)](https://github.com/jusemarinho/github-readme-stats)
 
 Algumas das tecnologias que eu mais utilizo:
 
